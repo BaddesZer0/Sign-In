@@ -18,5 +18,5 @@ Nasıl Çalıştırılır?
 2)Herhangi bir giriş bilgisini hatalı girmeniz durumunda hangi girdide hata yaptığınız belirtilecektir.
 
 3)Sistemde kayıtlı hesap için doğru bilgiler girilmesi durumunda "Hoşgeldiniz" mesajı sizi karşılayacaktır.
-
+ 
 
