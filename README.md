@@ -11,7 +11,7 @@ Parola:123456
 
 olarak kayıtlıdır.
 
-Nasıl Çalıştırılır?
+Nasıl Çalıştırılır?:
 
 1)Sırasıyla kullanıcı adını ve parolayı giriniz.
 
